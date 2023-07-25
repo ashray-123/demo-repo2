@@ -6,4 +6,4 @@ Some text
 this is some text
 
 ## Local Development
-open index1.htm in you browser
+open index1.html in you browser
